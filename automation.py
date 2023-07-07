@@ -19,3 +19,6 @@ pyautogui.click(1644,63,duration=1)
 
 pyautogui.write(channel_name)
 pyautogui.hotkey("enter")
+
+pyautogui.moveTo(2426,220)
+pyautogui.click(2426,220,duration=1)
